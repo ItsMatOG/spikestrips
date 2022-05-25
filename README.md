@@ -1,0 +1,2 @@
+# spikestrips
+FiveM Placeable Spikestrips
